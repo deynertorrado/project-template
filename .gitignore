@@ -1,0 +1,5 @@
+# Ignoramos el entorno virtual "env"
+env
+
+# Ignoramos "__pycache__"
+__pycache__

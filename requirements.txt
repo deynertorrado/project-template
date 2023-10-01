@@ -1,0 +1,9 @@
+# Librerias necesarias para el funcionamiento del proyecto
+# instalacion: 
+
+# 1. Terminal: "python -m venv env" o "venv env"
+# 2. Activan el entorno virtual: env\Scripts\activate
+# 3. Terminal: pip install -r requirements.txt
+
+FastAPI
+uvicorn
